@@ -65,8 +65,8 @@ t.seth(216.84)
 t.circle(-5.73,111.73)
 
 t.pensize(6)
-t.pencolor("deep_sky_blue")
-t.fillcolor("deep_sky_blue")
+t.pencolor("DeepSkyBlue")
+t.fillcolor("DeepSkyBlue")
 t.pensize(4)
 
 go(55.06,23.35)
