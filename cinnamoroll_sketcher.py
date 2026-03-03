@@ -12,7 +12,7 @@ def go(x,y):
 t.pencolor("black")
 t.fillcolor("white")
 
-go( 90.36, 50.50 )
+go(90.36, 50.50 )
 t.begin_fill()
 t.seth(335.48)
 t.circle(184.32, 49.04)
@@ -87,8 +87,8 @@ t.seth(320.4)
 t.circle(8.39,110.31)
 t.end_fill()
 
-t.pencolor("light_pink")
-t.fillcolor("light_pink")
+t.pencolor("LightPink")
+t.fillcolor("LightPink")
 
 go(55.30,-8.89)
 t.begin_fill()
@@ -165,6 +165,10 @@ t.end_fill()
 
 go(-59.31, -57.97)
 t.seth(208.74)
+t.circle(55.76,66.4)
+
+go(-81.70,-129.58)
+t.seth(329.65)
 t.circle(109.16,49.27)
 
 go(34.17,-138.64)
@@ -175,7 +179,7 @@ go(58.48,-56.57)
 t.seth(67.48)
 t.circle(-69.61,33.11)
 
-go(38.37,-35.71)
+go(38.37, -35.71)
 t.seth(74.03)
 t.circle(-42.22,90)
 
